@@ -1,7 +1,7 @@
 package ism2ikbsv111;
 
 /**
- * 
+ *
  * @author Maarten Jansen
  * @author Ido Bosman
  * @author Thomas Baart
@@ -9,7 +9,12 @@ package ism2ikbsv111;
  * @author Gerjan Kerssies
  */
 public class Main {
-   public static void main(String[] args) {
-     // TODO: Application logic here
-   }
+  /**
+   * Main method
+   * 
+   * @param args 
+   */
+  public static void main( String[] args ) {
+    // TODO: Application logic here
+  }
 }
